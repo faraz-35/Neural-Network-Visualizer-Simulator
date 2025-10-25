@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Perceptron Builder",
+  "description": "A visual tool to create, edit, and visualize perceptrons and neural networks interactively. Build networks, adjust weights, and watch forward propagation in action.",
+  "requestFramePermissions": []
+}
